@@ -19,3 +19,15 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.luckiest-guy-regular {
+  font-family: "Luckiest Guy", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.luckiest-guy-bold {
+  font-family: "Luckiest Guy", serif;
+  font-weight: 700;
+  font-style: normal;
+}
